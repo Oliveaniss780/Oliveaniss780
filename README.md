@@ -10,7 +10,7 @@ An interactive garden about how language models actually think.
 
 <p align="center">
   <a href="https://my-web-seven-brown-60.vercel.app">
-    <img src="pipeline.gif" alt="Typing a sentence and watching the whole model run — tokens, embeddings, attention, next word" width="640">
+    <img src="pipeline.png" alt="Typing a sentence and watching the whole model run — tokens, embeddings, attention, next word" width="640">
   </a>
 </p>
 
