@@ -4,12 +4,12 @@ I build **explorable explanations** for how modern AI works — pages you can po
 
 Most of my work lives in one place:
 
-## [Explorable AI](https://my-web-seven-brown-60.vercel.app)
+## [Explorable AI](https://explorable-ai.vercel.app)
 
 An interactive garden about how language models actually think.
 
 <p align="center">
-  <a href="https://my-web-seven-brown-60.vercel.app">
+  <a href="https://explorable-ai.vercel.app">
     <img src="pipeline.png" alt="Typing a sentence and watching the whole model run — tokens, embeddings, attention, next word" width="640">
   </a>
 </p>
@@ -22,4 +22,4 @@ A few things you can do there:
 
 Set in warm, two-ink palettes that turn from oat-milk day to deep-espresso night, and built on a heavily customized Quartz.
 
-**[Wander the garden →](https://my-web-seven-brown-60.vercel.app)**
+**[Wander the garden →](https://explorable-ai.vercel.app)**
