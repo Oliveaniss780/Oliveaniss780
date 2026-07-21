@@ -23,3 +23,8 @@ A few things you can do there:
 Set in warm, two-ink palettes that turn from oat-milk day to deep-espresso night, and built on a heavily customized Quartz.
 
 **[Wander the garden →](https://explorable-ai.vercel.app)**
+
+---
+
+<!-- 3D contribution calendar - git block version (auto-generated daily by GitHub Actions) -->
+![](./profile-3d-contrib/profile-gitblock.svg)
